@@ -71,19 +71,19 @@
     <h1 style="text-align: center">Enter one number and <br /> a message to solve the puzzle</h1>
     <form action="process.php" method="POST" class="container">
         <div style="display: flex; flex-direction: column; gap: 8px">
-            <label for="a">Number</label>
+            <label for="a">Number 1</label>
             <input type="number" name="a" id="a" required />
 
-            <label for="b">Number</label>
+            <label for="b">Number 2</label>
             <input type="number" name="b" id="b" required />
 
-            <label for="c">Number</label>
+            <label for="c">Number 3</label>
             <input type="number" name="c" id="c" required />
 
-            <label for="d">Number</label>
+            <label for="d">Number 4</label>
             <input type="number" name="d" id="d" required />
 
-            <label for="e">Number</label>
+            <label for="e">Number 5</label>
             <input type="number" name="e" id="e" required />
 
         </div>
